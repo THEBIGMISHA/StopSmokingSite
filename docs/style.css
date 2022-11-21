@@ -33,7 +33,6 @@ header{
 }
 header nav{
 	display:inline-block;
-	text-align:center;
 	max-width: 1152px;
 	min-width: 620px;
 	margin-left: auto;
