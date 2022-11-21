@@ -40,6 +40,11 @@ header nav{
   	margin-right: auto;
 }
 header li{display:inline-block;}
+header .select{
+	background:#077;
+	border:5px solid #077;
+	color:#FFF;
+}
 header a{
 	display: inline-block;
 	cursor: pointer;
@@ -48,9 +53,10 @@ header a{
 	color:#FFF;
 	background: #333;
 	border:5px solid #333;
-	font-weight: 1000;}
+	font-weight: 1000;
+}
 header a:hover{
-	background:#354251;
+	background:#088;
 	color:#FFF;
-	border:5px solid #354251;
+	border:5px solid #088;
 	transition: all 0.5s ease;}
