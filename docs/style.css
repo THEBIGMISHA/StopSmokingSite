@@ -27,18 +27,16 @@ body {
 }
 header{
 	background: #333;
-	height: 50px;
- 	width:110%;
-	margin-right:10px;
+ 	width:100%;
 }
 header nav{
 	display:inline-block;
 	max-width: 1152px;
 	min-width: 620px;
-	margin-left: auto;
-  	margin-right: auto;
+	margin-left: 5%;
+  	margin-right: 5%;
 }
-header li{display:inline-block;}
+header li{display:inline-block}
 header .select{
 	background:#077;
 	border:5px solid #077;
@@ -47,7 +45,7 @@ header .select{
 header a{
 	display: inline-block;
 	cursor: pointer;
-	font-size:21px;
+	font-size:100%;
 	padding:5px 10px;
 	color:#FFF;
 	background: #333;
